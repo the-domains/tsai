@@ -1,0 +1,23 @@
+name: Tsai
+favicon: null
+layout_spectrum: 0.9427983101923019
+typography_spectrum: 0.4679873348213732
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3313188967294991
+  lightness: 0.7040173772256821
+  saturation: 0.2005527012515813
+  rhythmicContrast: 0.08116392488591373
+purpose: []
